@@ -8,3 +8,8 @@ float32 max_duration  # Max travel time of outermost bins (s)
 uint8[] port_channel
 uint8[] starboard_channel
 uint8[] extra_channel
+uint8[] port_channel_phase_15_8
+uint8[] port_channel_phase_7_0
+uint8[] starboard_channel_phase_15_8
+uint8[] starboard_channel_phase_7_0
+
